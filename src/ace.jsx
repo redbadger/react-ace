@@ -1,4 +1,4 @@
-import ace from 'brace';
+const ace = window.ace;
 import React, { Component, PropTypes } from 'react';
 
 const editorOptions = [
